@@ -2,7 +2,7 @@
 - 👀 I’m interested in me tornar um programador
 - 🌱 I’m currently Análise e desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on estágios
-- 📫 How to reach me @marceloows05@gmail.com 
+- 📫 How to reach me marceloows05@gmail.com 
 
 <!---
 MarceloWilson/MarceloWilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
