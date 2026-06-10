@@ -83,7 +83,7 @@ Projetos voltados para análise exploratória, manipulação de dados e aplicaç
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarceloWilson&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloWilson&layout=compact&hide_border=true&title_color=000000&text_color=000000"/>
 
@@ -95,7 +95,7 @@ Projetos voltados para análise exploratória, manipulação de dados e aplicaç
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" />
+<img src="https://streak-stats.demolab.com?user=MarceloWilson&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" />
 
 </div>
 
