@@ -1,3 +1,4 @@
+```markdown
 # 👋 Olá, eu sou Marcelo Wilson
 
 <div align="left">
@@ -40,9 +41,19 @@ Tenho experiência no desenvolvimento de APIs, análise de dados e construção 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarceloWilson&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarceloWilson&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloWilson&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloWilson&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MarceloWilson&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -50,10 +61,10 @@ Tenho experiência no desenvolvimento de APIs, análise de dados e construção 
 
 ## 🚀 Projetos
 
-* ⏱️ **Chronos API** — API REST desenvolvida com Node.js, Prisma ORM e MySQL.
-* 🌐 **Portfólio Pessoal** — Website responsivo para apresentação profissional.
-* 📊 **Power BI** — Dashboards e indicadores para apoio à tomada de decisão.
-* 🤖 **Data Science** — Projetos de análise de dados e Machine Learning.
+- ⏱️ **Chronos API** — API REST desenvolvida com Node.js, Prisma ORM e MySQL.
+- 🌐 **Portfólio Pessoal** — Website responsivo para apresentação profissional.
+- 📊 **Power BI** — Dashboards e indicadores para apoio à tomada de decisão.
+- 🤖 **Data Science** — Projetos de análise de dados e Machine Learning.
 
 ---
 
@@ -70,3 +81,4 @@ Busco oportunidades nas áreas de **Ciência de Dados**, **Engenharia de Dados**
 💼 **LinkedIn:** https://www.linkedin.com/in/marcelo-wilson-6605712b7/
 
 🌐 **Portfólio:** https://marcelowilson.github.io/portfolio-marcelo
+```
